@@ -3,7 +3,7 @@ use strict;
 package Net::Moo;
 use base qw(LWP::UserAgent);
 
-$Net::Moo::VERSION = '0.1';
+$Net::Moo::VERSION = '0.11';
 
 =head1 NAME
 
@@ -524,11 +524,11 @@ sub log {
 
 =head1 VERSION
 
-0.1
+0.11
 
 =head1 DATE
 
-$Date: 2008/06/18 06:23:49 $
+$Date: 2008/06/19 15:15:34 $
 
 =head1 AUTHOR
 

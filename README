@@ -253,10 +253,10 @@ OBJECT METHODS YOU MAY CARE ABOUT
         Returns a *Log::Dispatch* object.
 
 VERSION
-        0.1
+        0.11
 
 DATE
-        $Date: 2008/06/18 06:23:49 $
+        $Date: 2008/06/19 15:15:34 $
 
 AUTHOR
         Aaron Straup Cope <ascope@cpan.org>
